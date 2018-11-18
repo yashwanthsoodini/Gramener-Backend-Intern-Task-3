@@ -1,6 +1,6 @@
 # Gramener Backend Intern Task 3
 
-We are given two lists L1 = ['a', 'b', 'c'], L2 = ['b', 'd']. The task is to find the common elements and to find the elements present in L1 and not in L2?
+We are given two lists L1 = ['a', 'b', 'c'], L2 = ['b', 'd']. The task is to find the common elements and to find the elements present in L1 and not in L2.
 
 ### Prerequisites
 
