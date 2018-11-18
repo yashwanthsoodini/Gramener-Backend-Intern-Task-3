@@ -29,7 +29,7 @@ def Minus(l1,l2):                        #Function that returns the list contain
     while(True):
         if(i>=len(l1)):                     #We break the while loop if index i overflows
             break
-        if(j>=len(ce)):                     #If index j overflows, we add all the remaining elements in l1 to l
+        if(j>=len(ce)):                     #If index j overflows, we add all the remaining elements in l1 to l and break the while loop
             for k in range(i,len(l1)):
                 l.append(l1[k])
             break
